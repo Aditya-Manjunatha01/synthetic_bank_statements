@@ -1,0 +1,66 @@
+{
+  "synthetic": true,
+  "bank": {
+    "name": "bank logo",
+    "tagline": "your tagline here",
+    "logo_path": "assets/bank_logo_tagline.jpg",
+    "legal_name": "BANK LOGO LIMITED",
+    "registered_office": "Bank Logo House, Sample Marg, Lower Demo, Metroville 400000",
+    "gst_state_account_branch_gstn": "29ZZZZZ0000Z1ZZ",
+    "gst_info_url": "https://www.example.com/gst/branch-details"
+  },
+  "branch": {
+    "name": "LAKEVIEW LAYOUT",
+    "address_lines": [
+      "G1, GROUND FLOOR, NO.12 & 13,",
+      "SAMPLE PLAZA, 4TH MAIN ROAD,",
+      "LAKEVIEW LAYOUT PHASE 2"
+    ],
+    "city": "BENGALURU",
+    "state": "KARNATAKA",
+    "pincode": "560099",
+    "phones": ["18005550100", "18005550101"],
+    "branch_code": "245",
+    "ifsc": "TOYB0000245",
+    "micr": "560999014"
+  },
+  "account": {
+    "account_no": "30871460200417",
+    "account_variant": "SAVER PLUS",
+    "cust_id": "70412398",
+    "open_date": "2014-03-21",
+    "status": "Regular",
+    "type": "SAVINGS A/C - RESIDENT",
+    "type_code": "100",
+    "currency": "INR",
+    "od_limit": 0.00,
+    "email": "Lightning.Mcqueen@example.com",
+    "nomination": "Registered"
+  },
+  "customer": {
+    "title": "MR.",
+    "name": "LIGHTNING MCQUEEN",
+    "address_lines": [
+      "NO 42 4TH CROSS 7TH MAIN",
+      "SAMPLE LAYOUT PHASE 2",
+      "NEAR TOY SUPER MARKET",
+      "BANGALORE 560099",
+      "KARNATAKA INDIA"
+    ],
+    "joint_holders": []
+  },
+  "statement": {
+    "title": "Statement of account",
+    "period_from": "2026-04-01",
+    "period_to": "2026-06-30",
+    "opening_balance": 152340.75,
+    "generated_on": "2026-07-02 10:15",
+    "generated_by": "70412398",
+    "requesting_branch_code": "NET"
+  },
+  "footer": {
+    "closing_balance_note": "*Closing balance includes funds earmarked for hold and uncleared funds",
+    "disclaimer": "Contents of this statement will be considered correct if no error is reported within 30 days of receipt of statement. The address on this statement is that on record with the Bank as at the day of requesting this statement.",
+    "computer_generated_note": "This is a computer generated statement and does not require signature."
+  }
+}
